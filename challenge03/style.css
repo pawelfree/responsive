@@ -1,0 +1,30 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 80%;
+  max-width: 750px;
+  margin: 0 auto;
+  background: #23424a;
+  color: white;
+  padding: 50px 3rem;
+  font-size: 21px;
+}
+
+.intro-content {
+  width: 70%;
+}
+
+a {
+  background-color: #38CFD9;
+  border-radius: 1.5em;
+  border-style: none;
+  padding: .75em 2em;
+}
